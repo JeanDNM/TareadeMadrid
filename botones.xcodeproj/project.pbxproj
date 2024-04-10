@@ -14,6 +14,8 @@
 		F739453E2BC5A2D9006D93CB /* botonesTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F739453D2BC5A2D9006D93CB /* botonesTests.swift */; };
 		F73945482BC5A2D9006D93CB /* botonesUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F73945472BC5A2D9006D93CB /* botonesUITests.swift */; };
 		F739454A2BC5A2D9006D93CB /* botonesUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F73945492BC5A2D9006D93CB /* botonesUITestsLaunchTests.swift */; };
+		F73945572BC5B8BE006D93CB /* tareadevistamadrid.swift in Sources */ = {isa = PBXBuildFile; fileRef = F73945562BC5B8BE006D93CB /* tareadevistamadrid.swift */; };
+		F73945592BC6CD00006D93CB /* vistadeMonumentos.swift in Sources */ = {isa = PBXBuildFile; fileRef = F73945582BC6CD00006D93CB /* vistadeMonumentos.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +46,8 @@
 		F73945432BC5A2D9006D93CB /* botonesUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = botonesUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F73945472BC5A2D9006D93CB /* botonesUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = botonesUITests.swift; sourceTree = "<group>"; };
 		F73945492BC5A2D9006D93CB /* botonesUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = botonesUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		F73945562BC5B8BE006D93CB /* tareadevistamadrid.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tareadevistamadrid.swift; sourceTree = "<group>"; };
+		F73945582BC6CD00006D93CB /* vistadeMonumentos.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = vistadeMonumentos.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +78,8 @@
 		F73945202BC5A2D2006D93CB = {
 			isa = PBXGroup;
 			children = (
+				F73945582BC6CD00006D93CB /* vistadeMonumentos.swift */,
+				F73945562BC5B8BE006D93CB /* tareadevistamadrid.swift */,
 				F739452B2BC5A2D3006D93CB /* botones */,
 				F739453C2BC5A2D9006D93CB /* botonesTests */,
 				F73945462BC5A2D9006D93CB /* botonesUITests */,
@@ -259,6 +265,8 @@
 			files = (
 				F739452F2BC5A2D3006D93CB /* ContentView.swift in Sources */,
 				F739452D2BC5A2D3006D93CB /* botonesApp.swift in Sources */,
+				F73945572BC5B8BE006D93CB /* tareadevistamadrid.swift in Sources */,
+				F73945592BC6CD00006D93CB /* vistadeMonumentos.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
